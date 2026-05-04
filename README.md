@@ -153,7 +153,7 @@ If you want to build the CUDA extension from source:
 
 ---
 
-## Why ~2× Without Quality Loss
+## Why ~2× Without visible Quality Loss
 
 | Factor | Explanation |
 |---|---|
